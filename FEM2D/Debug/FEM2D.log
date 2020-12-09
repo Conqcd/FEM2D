@@ -1,0 +1,7 @@
+﻿  main.cpp
+D:\ZJUfile\牙齿组\FEM2D\FEM2D\main.cpp(11,2): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  Mesh.cpp
+  Solver.cpp
+  Vector.cpp
+  正在生成代码...
+  FEM2D.vcxproj -> D:\ZJUfile\牙齿组\FEM2D\Debug\FEM2D.exe
